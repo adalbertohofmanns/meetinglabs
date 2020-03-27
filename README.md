@@ -4,7 +4,7 @@ Scope: To shcedule - show all rooms available, when click's on a room, show cale
 
 On the room's list, on mouse hover, show button to create schedule and another o view the schedule( inside a button to edit )
 
-
+Romm - item: show calendar from current month, 
 
 
 Table schema.
